@@ -1,0 +1,14 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.navbar-static-top {
+  background: rgb(192, 25, 16);
+}
+
+@media  {
+  .navbar-static-top {
+    background: rgb(192,25,16);
+  }
+}
+
